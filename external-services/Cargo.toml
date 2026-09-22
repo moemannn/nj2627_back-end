@@ -5,4 +5,3 @@ edition = "2024"
 
 [dependencies]
 reqwest = "0.13.5"
-tracing = "0.1.44"
