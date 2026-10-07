@@ -32,6 +32,7 @@
 
 .idea/
 .env
+.env.auth_methods
 
 # Generated files
 .idea/**/contentModel.xml

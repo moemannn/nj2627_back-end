@@ -1,5 +1,8 @@
 mod helper_functions;
-mod tester;
+mod spotify;
+mod github;
 
 pub use helper_functions::*;
-pub use tester::*;
+pub use spotify::*;
+pub use github::*;
+
